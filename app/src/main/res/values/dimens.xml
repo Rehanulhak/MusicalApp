@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="standardSpacing">16dp</dimen>
+    <dimen name="standardTextSize">12sp</dimen>
+    <dimen name="standardDoubleSpacing">32dp</dimen>
+</resources>
